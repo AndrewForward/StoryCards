@@ -1,0 +1,28 @@
+# Logs
+VueProject/story-cards/logs
+VueProject/story-cards/*.log
+VueProject/story-cards/npm-debug.log*
+VueProject/story-cards/yarn-debug.log*
+VueProject/story-cards/yarn-error.log*
+VueProject/story-cards/pnpm-debug.log*
+VueProject/story-cards/lerna-debug.log*
+
+VueProject/story-cards/node_modules
+VueProject/story-cards/.DS_Store
+VueProject/story-cards/dist
+VueProject/story-cards/dist-ssr
+VueProject/story-cards/coverage
+VueProject/story-cards/*.local
+
+VueProject/story-cards/cypress/videos
+VueProject/story-cards/cypress/screenshots/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
